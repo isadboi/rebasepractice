@@ -3,9 +3,4 @@ Hello these are some of the colors
 red
 blue
 green
-
-
-
-
-
 here a fix for the issue
